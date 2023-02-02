@@ -1,0 +1,9 @@
+Profit report:
+Cluster 1: $133,426.0
+Cluster 2: $43,684.0
+Cluster 3: $109,224.0
+
+Quantity report:
+Cluster 1: 18,362.0
+Cluster 2: 8,716.0
+Cluster 3: 10,524.0
